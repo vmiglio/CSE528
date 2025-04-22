@@ -168,6 +168,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -734,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_Sample_Room_0: 1019633615585353805
+      T_Sample_Room_1: 6992998106301022001
+      T_Sample_Room_10: 7249618698275785647
+      T_Sample_Room_11: -2206562659009593315
+      T_Sample_Room_12: 7808272947971661208
+      T_Sample_Room_13: 8492060781815876088
+      T_Sample_Room_14: -2057815736873392830
+      T_Sample_Room_15: -8277490439507160028
+      T_Sample_Room_16: -2684348329548669989
+      T_Sample_Room_17: -7161119323785653406
+      T_Sample_Room_18: 722442877472949324
+      T_Sample_Room_19: 2037734459696813469
+      T_Sample_Room_2: -1569542400438692898
+      T_Sample_Room_20: 3742408535047807135
+      T_Sample_Room_21: -7020069342204551478
+      T_Sample_Room_22: 5989997172478553918
+      T_Sample_Room_23: 6717538920970382261
+      T_Sample_Room_24: -5365781520284950478
+      T_Sample_Room_3: -6820001454501456723
+      T_Sample_Room_4: 5580472550379491469
+      T_Sample_Room_5: 1412697876847216238
+      T_Sample_Room_6: -3459693956250633515
+      T_Sample_Room_7: -8515809864852970291
+      T_Sample_Room_8: 3416578047713412273
+      T_Sample_Room_9: 6268398004454289362
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

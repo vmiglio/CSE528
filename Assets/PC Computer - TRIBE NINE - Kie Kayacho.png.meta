@@ -177,6 +177,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -809,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PC Computer - TRIBE NINE - Kie Kayacho_0: 5385284153804840289
+      PC Computer - TRIBE NINE - Kie Kayacho_1: -1672044408797001887
+      PC Computer - TRIBE NINE - Kie Kayacho_10: -1090828865999235375
+      PC Computer - TRIBE NINE - Kie Kayacho_11: 4420424091372476728
+      PC Computer - TRIBE NINE - Kie Kayacho_12: -8283198244084796622
+      PC Computer - TRIBE NINE - Kie Kayacho_13: 6973915289280633818
+      PC Computer - TRIBE NINE - Kie Kayacho_14: 6125101832585021526
+      PC Computer - TRIBE NINE - Kie Kayacho_15: 133083246309959086
+      PC Computer - TRIBE NINE - Kie Kayacho_16: -7194173396751273728
+      PC Computer - TRIBE NINE - Kie Kayacho_17: 2786318733649553878
+      PC Computer - TRIBE NINE - Kie Kayacho_18: 8935434357405482384
+      PC Computer - TRIBE NINE - Kie Kayacho_19: 2752409041705689415
+      PC Computer - TRIBE NINE - Kie Kayacho_2: -4452500073390775071
+      PC Computer - TRIBE NINE - Kie Kayacho_20: -3151209902712026905
+      PC Computer - TRIBE NINE - Kie Kayacho_21: 843370953662586517
+      PC Computer - TRIBE NINE - Kie Kayacho_22: 2781071556329795824
+      PC Computer - TRIBE NINE - Kie Kayacho_23: 5598612775705503256
+      PC Computer - TRIBE NINE - Kie Kayacho_24: -6677386740231376401
+      PC Computer - TRIBE NINE - Kie Kayacho_25: -7888756618022140683
+      PC Computer - TRIBE NINE - Kie Kayacho_26: 3831261589616491846
+      PC Computer - TRIBE NINE - Kie Kayacho_27: -7341860973786946910
+      PC Computer - TRIBE NINE - Kie Kayacho_3: 5948926328013138542
+      PC Computer - TRIBE NINE - Kie Kayacho_4: 1637637437278841633
+      PC Computer - TRIBE NINE - Kie Kayacho_5: 1640215893487617375
+      PC Computer - TRIBE NINE - Kie Kayacho_6: -1977491474097074082
+      PC Computer - TRIBE NINE - Kie Kayacho_7: 8320192181685706687
+      PC Computer - TRIBE NINE - Kie Kayacho_8: 1835201234999844454
+      PC Computer - TRIBE NINE - Kie Kayacho_9: -8625553547377673696
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

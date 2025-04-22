@@ -108,6 +108,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -234,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_BooksOfBookshelf_Big_03_0: -3709195130812700967
+      T_BooksOfBookshelf_Big_03_1: -5212491989502266951
+      T_BooksOfBookshelf_Big_03_2: 6817573845699746939
+      T_BooksOfBookshelf_Big_03_3: 1563734118024303155
+      T_BooksOfBookshelf_Big_03_4: -3606393194868051922
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
