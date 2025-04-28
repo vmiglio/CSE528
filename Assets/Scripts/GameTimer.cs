@@ -63,4 +63,9 @@ public class GameTimer : MonoBehaviour
         timeRemaining += amount;
         UpdateTimerDisplay();
     }
+
+    public float GetTimeRemaining()
+    {
+        return timeRemaining;
+    }
 }
