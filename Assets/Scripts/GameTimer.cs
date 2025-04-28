@@ -3,11 +3,12 @@ using UnityEngine;
 
 public class GameTimer : MonoBehaviour
 {
+
     [Header("Timer Settings")]
-    [SerializeField] private int startTimeInSeconds = 120; // Set this in the Inspector (e.g., 120 = 2 minutes)
+    [SerializeField] private int startTimeInSeconds = 120;
 
     [Header("UI Reference")]
-    [SerializeField] private Text timerText; // Assign your Text UI element here
+    [SerializeField] private Text timerText; 
 
     private float timeRemaining;
     private bool isRunning = false;
@@ -16,7 +17,7 @@ public class GameTimer : MonoBehaviour
     {
         timeRemaining = startTimeInSeconds;
         isRunning = true;
-        UpdateTimerDisplay(); // Show initial time
+        UpdateTimerDisplay(); 
     }
 
     void Update()
@@ -54,6 +55,12 @@ public class GameTimer : MonoBehaviour
     public void ResetTimer()
     {
         timeRemaining = startTimeInSeconds;
+        UpdateTimerDisplay();
+    }
+
+    public void AddTime(float amount)
+    {
+        timeRemaining += amount;
         UpdateTimerDisplay();
     }
 }
