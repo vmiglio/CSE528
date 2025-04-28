@@ -1,8 +1,24 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CharacterSelector : MonoBehaviour
 {
-    //0 = Boy, 1 = Girl
-    public static int selectedCharacter = 0; 
+    public static bool isBoySelected;  
 
+    public void SelectBoy()
+    {
+        isBoySelected = true;
+        GoToLevelSelect();
+    }
+
+    public void SelectGirl()
+    {
+        isBoySelected = false;
+        GoToLevelSelect();
+    }
+
+    private void GoToLevelSelect()
+    {
+        SceneManager.LoadScene("LevelSelector");  
+    }
 }

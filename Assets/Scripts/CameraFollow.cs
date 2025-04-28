@@ -7,6 +7,17 @@ public class CameraFollow : MonoBehaviour
 
     void Start()
     {
+        
+        if (CharacterSelector.isBoySelected)
+        {
+            player = GameObject.Find("Player").transform;
+        }
+        else
+        {
+            player = GameObject.Find("Player2").transform;
+        }
+
+
         // Calculate the initial offset from player to camera
         offset = transform.position - player.position;
     }

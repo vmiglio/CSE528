@@ -1,9 +1,9 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MenuManager : MonoBehaviour
+public class StartGame : MonoBehaviour
 {
-    [SerializeField] private string levelName;
+    public static string levelName;
 
     public void LoadLevel()
     {
