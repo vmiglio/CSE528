@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MenuManager : MonoBehaviour
+public class StartGame : MonoBehaviour
 {
     [SerializeField] private string levelName;
 

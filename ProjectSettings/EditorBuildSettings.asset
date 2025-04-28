@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelSelector.unity
     guid: 0aa3f2f8b09d3574a885a0049ca2fdb7
+  - enabled: 1
+    path: Assets/Scenes/ScoreScreen.unity
+    guid: d21de2ad57ae95147852440c7a99d6d1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

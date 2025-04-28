@@ -1,5 +1,7 @@
 using UnityEngine.UI;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class GameTimer : MonoBehaviour
 {
@@ -29,7 +31,8 @@ public class GameTimer : MonoBehaviour
             {
                 timeRemaining = 0;
                 isRunning = false;
-                // You can add something here like GameOver();
+
+                SceneManager.LoadScene("GameOver");
             }
             UpdateTimerDisplay();
         }
