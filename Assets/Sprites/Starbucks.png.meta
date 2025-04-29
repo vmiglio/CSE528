@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Starbucks_0: 1034321079881268659
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
