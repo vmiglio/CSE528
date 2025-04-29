@@ -139,8 +139,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bonusTime: 20
-  speedBoostAmount: 8
-  boostDuration: 10
+  speedBoostAmount: 6
+  boostDuration: 7
 --- !u!82 &7083126456693307631
 AudioSource:
   m_ObjectHideFlags: 0
