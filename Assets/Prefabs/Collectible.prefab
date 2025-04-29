@@ -138,9 +138,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da935d9d75937714a8c58e9524fa00df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bonusTime: 30
+  bonusTime: 20
   speedBoostAmount: 8
-  boostDuration: 15
+  boostDuration: 10
 --- !u!82 &7083126456693307631
 AudioSource:
   m_ObjectHideFlags: 0
